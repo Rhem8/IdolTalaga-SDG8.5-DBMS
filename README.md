@@ -29,4 +29,5 @@ This project implements a relational database system designed to support employm
 - Triggers automatically update employment status upon training completion
 
 ## Contributors
-- 
+- Jamel Macadaub
+- Rimuel Loking
